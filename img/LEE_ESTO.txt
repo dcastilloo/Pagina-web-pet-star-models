@@ -1,0 +1,10 @@
+Reemplaza estos nombres con tus fotos reales:
+- banner-mascotas.jpg
+- pompon.jpg
+- leia.jpg
+- maia.jpg
+- aurora.jpg
+- elsa.jpg
+- galeria-1.jpg
+- galeria-2.jpg
+- galeria-3.jpg
